@@ -1,0 +1,11 @@
+# Datasetleri Github'a atmamak için
+dataset/
+*.nii.gz
+*.h5
+*.jpg
+*.png
+
+# Node ve Python gereksiz dosyaları
+node_modules/
+__pycache__/
+.env
